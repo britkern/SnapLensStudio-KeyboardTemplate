@@ -1,7 +1,8 @@
 repo_name: britkern/SnapLensStudio-KeyboardTemplate
 report_id: d173a369cce38ed1c0131ba7e2720f1e
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-30T18:22:18+00:00'
+timestamp: '2024-01-05T08:30:16+00:00'
 requested_by: max-van-leeuwen
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/britkern/SnapLensStudio-KeyboardTemplate
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -25,4 +27,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/britkern/SnapLensStudio-KeyboardTemplate
   detection_source: Repo Metadata
